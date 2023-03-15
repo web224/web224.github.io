@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Web-224 DIAKITE
+rep_url: https://github.com/web224/web224.github.io
+site_url: https://web224.github.io/
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
