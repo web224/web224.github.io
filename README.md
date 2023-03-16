@@ -11,14 +11,14 @@
 - République de Guinée
 
 
-## Compétences :joy:
+## Compétences :joy: :customs: :100:
 
 * Administration Windows Server 2008/2012
 * Linux Red Hat / Zentyal
-* Windows XP SP3/ W7/ W8/ W10
-* Programmation HTML/PHP/CSS
-* CMS Wordpress
-* LCMS Moodle E Learning
+* Windows XP SP3/ W7/ W8/ W10 :100:
+* Programmation HTML/PHP/CSS :100:
+* CMS Wordpress :customs:
+* LCMS Moodle E Learning :customs:
 * CMS Drupal
 * Exchange Server 2003/2010
 * Site Web Dev Wordpress /Joomla
